@@ -1,0 +1,2 @@
+export KAFKA_HEAP_OPTS="-Xmx400m -Xms400m"
+echo $KAFKA_HEAP_OPTS
