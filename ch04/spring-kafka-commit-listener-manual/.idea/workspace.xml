@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="26cf7040-8c9e-453a-8e8c-84340e9ff1ef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../kafka-consumer-with-multi-worker-thread/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka-consumer-with-multi-worker-thread/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka-consumer-with-multi-worker-thread/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka-consumer-with-multi-worker-thread/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka-consumer-with-multi-worker-thread/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka-consumer-with-multi-worker-thread/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka-consumer-with-multi-worker-thread/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka-consumer-with-multi-worker-thread/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka-consumer-with-multi-worker-thread/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka-consumer-with-multi-worker-thread/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka-consumer-with-multi-worker-thread/src/main/java/com/example/ConsumerWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka-consumer-with-multi-worker-thread/src/main/java/com/example/MultiWorkerConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka-multi-consumer-thread/.gradle/7.4/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka-multi-consumer-thread/.gradle/7.4/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka-multi-consumer-thread/.gradle/7.4/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka-multi-consumer-thread/.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka-multi-consumer-thread/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka-multi-consumer-thread/.gradle/7.4/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka-multi-consumer-thread/.gradle/7.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka-multi-consumer-thread/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka-multi-consumer-thread/.gradle/7.4/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka-multi-consumer-thread/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka-multi-consumer-thread/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka-multi-consumer-thread/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka-multi-consumer-thread/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka-multi-consumer-thread/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka-multi-consumer-thread/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka-multi-consumer-thread/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka-multi-consumer-thread/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka-multi-consumer-thread/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka-multi-consumer-thread/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka-multi-consumer-thread/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka-multi-consumer-thread/build/classes/java/main/com/example/ConsumerWorker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka-multi-consumer-thread/build/classes/java/main/com/example/MultiConsumerThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka-multi-consumer-thread/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka-multi-consumer-thread/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka-multi-consumer-thread/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka-multi-consumer-thread/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka-multi-consumer-thread/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka-multi-consumer-thread/src/main/java/com/example/ConsumerWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka-multi-consumer-thread/src/main/java/com/example/MultiConsumerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-batch-listener/.gradle/7.4/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-batch-listener/.gradle/7.4/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-batch-listener/.gradle/7.4/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-batch-listener/.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-batch-listener/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-batch-listener/.gradle/7.4/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-batch-listener/.gradle/7.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-batch-listener/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-batch-listener/.gradle/7.4/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-batch-listener/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-batch-listener/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-batch-listener/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-batch-listener/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-batch-listener/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-batch-listener/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-batch-listener/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-batch-listener/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-batch-listener/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-batch-listener/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-batch-listener/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-batch-listener/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-batch-listener/build/classes/java/main/com/example/SpringConsumerApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-batch-listener/build/resources/main/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-batch-listener/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-batch-listener/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-batch-listener/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-batch-listener/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-batch-listener/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-batch-listener/src/main/java/com/example/SpringConsumerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-batch-listener/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.4/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.4/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.4/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.4/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.4/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/SpringConsumerApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/SpringConsumerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-commit-listener/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-commit-listener/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-commit-listener/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-commit-listener/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-commit-listener/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-commit-listener/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-commit-listener/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-commit-listener/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-commit-listener/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-commit-listener/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-commit-listener/src/main/java/com/example/SpringConsumerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-commit-listener/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-listener-container/.gradle/7.4/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-listener-container/.gradle/7.4/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-listener-container/.gradle/7.4/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-listener-container/.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-listener-container/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-listener-container/.gradle/7.4/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-listener-container/.gradle/7.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-listener-container/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-listener-container/.gradle/7.4/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-listener-container/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-listener-container/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-listener-container/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-listener-container/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-listener-container/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-listener-container/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-listener-container/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-listener-container/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-listener-container/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-listener-container/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-listener-container/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-listener-container/build/classes/java/main/com/example/ListenerContainerConfiguration$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-listener-container/build/classes/java/main/com/example/ListenerContainerConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-listener-container/build/classes/java/main/com/example/SpringConsumerApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-listener-container/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-listener-container/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-listener-container/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-listener-container/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-listener-container/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-listener-container/src/main/java/com/example/ListenerContainerConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-listener-container/src/main/java/com/example/SpringConsumerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-producer/.gradle/7.4/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-producer/.gradle/7.4/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-producer/.gradle/7.4/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-producer/.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-producer/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-producer/.gradle/7.4/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-producer/.gradle/7.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-producer/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-producer/.gradle/7.4/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-producer/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-producer/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-producer/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-producer/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-producer/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-producer/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-producer/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-producer/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-producer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-producer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-producer/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-producer/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-producer/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-producer/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-producer/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-producer/src/main/java/com/example/SpringProducerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-template-producer/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-template-producer/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-template-producer/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-template-producer/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-template-producer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-template-producer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-template-producer/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-template-producer/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-template-producer/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-template-producer/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-template-producer/src/main/java/com/example/KafkaTemplateConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-kafka-template-producer/src/main/java/com/example/SpringProducerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch03/simple-sink-connector/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch03/simple-sink-connector/.idea/gradle.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EIPEbYzKCb503N2tr7Ta6vVQnZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/fx/work/Apache Kafka with Java/ch04/spring-kafka-commit-listener-manual/src/main/resources"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26cf7040-8c9e-453a-8e8c-84340e9ff1ef" name="Changes" comment="" />
+      <created>1662280021461</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662280021461</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
