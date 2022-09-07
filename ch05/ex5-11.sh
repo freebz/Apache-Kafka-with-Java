@@ -1,0 +1,1 @@
+./metricbeat -c metricbeat.yml
